@@ -1,0 +1,21 @@
+# Model weights (too large for GitHub — use Google Drive)
+model/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large corpus (upload to Drive separately)
+corpus/
+
+# Outputs (regenerate from Colab)
+comparison/
+validation/
+figures/
+
+# Survey answer key (keep private)
+survey/answer_key.txt
+
+# System
+.DS_Store
+Thumbs.db
+*.log

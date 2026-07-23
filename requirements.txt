@@ -1,0 +1,12 @@
+transformers==4.52.4
+torch>=2.0.0
+datasets
+accelerate
+scikit-learn
+matplotlib
+numpy
+pandas
+pymupdf
+nltk
+python-docx
+tqdm
